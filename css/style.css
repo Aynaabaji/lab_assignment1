@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+#leap {
+    padding: 50px 0;
+    background: maroon;
+    margin-top: 25px;
+    text-align: center;
+    color: white;
+}
+
+form {
+    padding-top: 25px;
+}
+
+#leap p {
+    display: inline-block;
+}
+
+#leap #message {
+    display: inline-block;
+    height: 18px;
+    width: 250px;
+    background: white;
+}
+
+#submit {
+    padding: 0 15px;
+}
+
